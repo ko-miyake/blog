@@ -1,0 +1,7 @@
+h1 {
+  font: inherit;
+}
+
+p {
+  counter-reset: none;
+}
